@@ -1,0 +1,10 @@
+1001 Alice 0 2 3
+1002 Bob 1 0 4
+1003 Charlie 2 3 1
+1004 Deborah 1 2 4
+1005 Ethan 3 0 2
+1006 Fiona 4 1 0
+1007 George 0 3 1
+1008 Hannah 2 4 3
+1009 Isaac 1 2 0
+1010 Julia 3 1 4

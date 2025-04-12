@@ -1,0 +1,5 @@
+0 UniversityOfTokyo Tokyo,Japan 100
+1 UniversityOfOxford Oxford,UK 80
+2 UniversityOfMelbourne Melbourne,Australia 70
+3 UniversityOfCapeTown CapeTown,SouthAfrica 60
+4 NationalUniversityOfSingapore Singapore 90
